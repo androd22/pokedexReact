@@ -1,0 +1,14 @@
+section {
+  width: 60%;
+  margin: 0 auto;
+}
+
+section ul li {
+  margin: 15px;
+  font-family: sans-serif;
+  text-align: justify;
+}
+section ul li span {
+  font-weight: bold;
+  color: darkblue;
+}

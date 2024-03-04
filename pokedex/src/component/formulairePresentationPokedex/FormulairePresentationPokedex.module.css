@@ -1,0 +1,16 @@
+.container {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+input {
+  padding: 5px;
+}
+input[type="submit"] {
+  background-color: lightskyblue;
+  border: darkblue 2px solid;
+  border-radius: 0 4px 4px 0;
+}
